@@ -18,7 +18,6 @@ void RenderString(float x, float y, void *font, const char* string)
   glutBitmapCharacter(font, string[i]);
 }
 
-
 void polar_circle(float x, float y, float r)
 {
 	glBegin(GL_POINTS);
