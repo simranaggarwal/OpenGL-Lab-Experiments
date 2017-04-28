@@ -8,7 +8,10 @@ Experiment 4: 	Draw lines using DDA and Bresenham's algorithm. On clicking B
 		be implemented. Space key is used to clear the screen.
 Experiment 5: 	Draw circle and ellipse using polar and mid-point algorithms. Show the output 
 		in different subwindows.
-			
+Experiment 6:	Implement line clipping using Cohen-Sutherland and Liang-Barsky
+Experiment 7:	2D Transformations 
+Experiment 8:	3D Transformations
+
 project.cpp:	A mini project on "Solar System" depicting 3D rotation and revolution of all planets.			
 
 License
