@@ -11,6 +11,7 @@ Experiment 5: 	Draw circle and ellipse using polar and mid-point algorithms. Sho
 Experiment 6:	Implement line clipping using Cohen-Sutherland and Liang-Barsky
 Experiment 7:	2D Transformations 
 Experiment 8:	3D Transformations
+seirpinski:	A 3D Fractal with scaling and rotation features. 
 
 project.cpp:	A mini project on "Solar System" depicting 3D rotation and revolution of all planets.			
 
